@@ -166,21 +166,6 @@ This project demonstrates practical capabilities relevant to quantitative financ
 ---
 
 
-## Limitations and Ongoing Work
-
-This repository is the data-construction component of an ongoing research project. Empirical results are not included here and are not yet finalized. Planned and in-progress extensions include:
-
-- Textual similarity, divergence, and overlap measures between filings and transcripts
-- Tone and sentiment comparison across the two channels
-- Topic modelling and embedding-based representations of disclosure-transcript pairs
-- Linking textual signals to expected returns within factor-model frameworks (CAPM, Fama-French, q-factor)
-- Tests of whether disclosure-transcript divergence is associated with abnormal returns
-- Robustness checks across industries, firm sizes, and time periods
-- Portfolio-sort and long-short tests to evaluate signal economic significance
-
-These extensions should be read as forward-looking research directions, not completed results.
-
----
 
 
 ## Citation and Academic Context
