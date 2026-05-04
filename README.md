@@ -165,11 +165,6 @@ This project demonstrates practical capabilities relevant to quantitative financ
 
 ---
 
-## Relevance to Industry Roles
-
-The work shown here maps directly onto tasks performed by quantitative analysts, investment analysts, financial analysts, risk analysts, and data scientists in finance. Equity research and quant teams routinely need to extract structured information from regulatory filings, link it to firm-level panels, and feed it into pricing or risk models. Risk and credit groups need consistent firm-quarter views of disclosure language. Investment research teams increasingly evaluate textual signals as inputs to factor models. The infrastructure built here is the kind of foundation those workflows depend on.
-
----
 
 ## Limitations and Ongoing Work
 
@@ -186,11 +181,6 @@ This repository is the data-construction component of an ongoing research projec
 These extensions should be read as forward-looking research directions, not completed results.
 
 ---
-
-## How to Use the Repository
-
-The pipeline is research code rather than a packaged CLI. The example entry point is `src/Disclosure_Cleaner.py`, which iterates over `Disclosure_Transcript_Pairs.csv` and parses each filing.
-
 
 
 ## Citation and Academic Context
